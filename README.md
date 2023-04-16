@@ -55,5 +55,5 @@ isFlaggedFraud - The business model aims to control massive transfers from one a
 <img src="https://user-images.githubusercontent.com/115481955/232291293-901f9417-2bfd-409a-8476-bf807aeaa732.png" width="600" height="500">
 
 # Software
-<img src="https://user-images.githubusercontent.com/115481955/219933794-c277f270-8a8f-4078-8cbb-8c5bdfd1fac7.png" width="250" height="100"> <img src="https://user-
+<img src="https://user-images.githubusercontent.com/115481955/219933794-c277f270-8a8f-4078-8cbb-8c5bdfd1fac7.png" width="250" height="100">
 
